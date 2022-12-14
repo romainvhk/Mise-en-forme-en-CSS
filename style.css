@@ -36,7 +36,8 @@ body{
 .page {}
 
 .entete{
-    background-color: hotpink;
+    background-color: #9a5ceb;
+    padding: 10px;
 }
 .colonnes {
     background-color: deepskyblue;
@@ -50,7 +51,12 @@ body{
 .pieddepage{
     background-color: lightgray;
 }
-
-
-
-
+.titre_du_site {
+    font-size: 2em;
+    color: #ffffff
+}
+.notre_slogan{
+    font-size: 1.5em;
+    color: #c2bdbd;
+    font-style: italic;
+}
