@@ -46,10 +46,12 @@ body{
     background-color: gold;
 }
 .colonne_contenu {
-    background-color: lightgreen;
+    background-color: rgb(98, 226, 98);
 }
 .pieddepage{
-    background-color: lightgray;
+    background-color: #924040;
+    color: #00ff22;
+    text-align: center;
 }
 .titre_du_site {
     font-size: 2em;
