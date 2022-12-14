@@ -46,12 +46,14 @@ body{
     background-color: gold;
 }
 .colonne_contenu {
-    background-color: rgb(98, 226, 98);
+    background-color: rgb(99, 172, 32);
+    padding: 10px;
 }
 .pieddepage{
     background-color: #924040;
-    color: #00ff22;
+    color: #36ad11;
     text-align: center;
+    line-height: 3.1em;
 }
 .titre_du_site {
     font-size: 2em;
@@ -61,4 +63,40 @@ body{
     font-size: 1.5em;
     color: #c2bdbd;
     font-style: italic;
+}
+h1 {
+    background-color: #924040;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-bottom: 5px solid black;
+}
+h2 {
+    color: #0e4863;
+    font-size: 1.5em;
+    margin: 20px;
+    font-variant: small-caps;
+}
+
+strong {
+    color:#bb1b1b;
+    font-weight: 100;
+}
+
+em {
+    color: #ffffff;
+}
+
+.introduction {
+    font-style: italic;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+a {
+    font-weight: bold;
+}
+a:hover {
+    color : red;
+    text-decoration: none;
 }
