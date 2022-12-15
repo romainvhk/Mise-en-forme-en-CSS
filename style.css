@@ -100,3 +100,26 @@ a:hover {
     color : red;
     text-decoration: none;
 }
+.colonnes,.colonne_menu {
+    background-color: white;
+}
+.colonne_menu ul {
+    margin: 0px;
+    padding: 0px;
+}
+.colonne_menu li {
+    list-style-type: none;
+    background-color: #173ff3;
+    margin: 5px;
+    text-align: center;
+}
+.colonne_menu li:hover {
+    background-color: #881bbb;
+}
+
+.colonne_menu a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    display: block;
+    padding: 5px;
+}
